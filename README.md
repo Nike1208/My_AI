@@ -10,8 +10,13 @@ R  unning layers.py executes the gradient check. If the output says the backprop
 Roadmap
 ☑️ Layers with forward and backward pass
 ☑️ Gradient check
+ 
  Loss functions
+
  Optimizers
+ 
  Training loop
+ 
  Solve XOR
+ 
  Train on MNIST
